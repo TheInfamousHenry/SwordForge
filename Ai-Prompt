@@ -1,0 +1,4 @@
+Ensure the player.resources variable is changed to a dictionary that stores each resource as a key/value in the dictionary with the name and then the amount of resource. Takeout the server-side resource count variable and edit the add resorce soket reciever to process the name of the resource and the amount that was just collected. Modify the dash functionality to temporarily increase of velocity, say *10 for 500 milliseconds instead of an abrupt teleport.
+
+
+
